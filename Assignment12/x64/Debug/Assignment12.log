@@ -1,0 +1,12 @@
+﻿  Assignment12.cpp
+D:\Code\OpenCV_Assignments\Assignment12\Assignment12.cpp(18,51): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Code\OpenCV_Assignments\Assignment12\Assignment12.cpp(18,48): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  Assignment12.vcxproj -> D:\Code\OpenCV_Assignments\Assignments\x64\Debug\Assignment12.exe

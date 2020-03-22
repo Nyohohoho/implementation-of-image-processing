@@ -1,0 +1,16 @@
+﻿  Assignment13.cpp
+D:\Code\OpenCV_Assignments\Assignment13\Assignment13.cpp(18,51): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\Code\OpenCV_Assignments\Assignment13\Assignment13.cpp(18,48): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 531 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assignment13.vcxproj -> D:\Code\OpenCV_Assignments\Assignments\x64\Release\Assignment13.exe

@@ -1,0 +1,4 @@
+﻿  Assignment08.cpp
+D:\Code\OpenCV_Assignments\Assignment08\Assignment08.cpp(22,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Code\OpenCV_Assignments\Assignment08\Assignment08.cpp(23,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Assignment08.vcxproj -> D:\Code\OpenCV_Assignments\Assignments\x64\Debug\Assignment08.exe
