@@ -1,5 +1,11 @@
 # Implementation of image processing
 
+Open /Assignments/Assignments.sln with Visual Studio (Mine is Visual Studio 2019)
+
+Configure OpenCV for each project.
+
+Right click one project, for example "Assignment01", and then click "Debug->Start new instance" to see result.
+
 ## 1 Load a single image and display it
 ![image](https://github.com/Nyohohoho/implementation-of-image-processing/blob/master/Screenshots/Assignment01.png)
 
