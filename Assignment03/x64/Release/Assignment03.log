@@ -1,8 +1,0 @@
-﻿  Assignment03.cpp
-D:\Code\OpenCV_Assignments\Assignment03\Assignment03.cpp(11,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-D:\Code\OpenCV_Assignments\Assignment03\Assignment03.cpp(17,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 302 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Assignment03.vcxproj -> D:\Code\OpenCV_Assignments\Assignments\x64\Release\Assignment03.exe
